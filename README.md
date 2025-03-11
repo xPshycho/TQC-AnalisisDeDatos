@@ -15,7 +15,7 @@ Este repositorio contiene el proyecto final de la asignatura *Inteligencia de Ne
 ## Autores
 - [Daniel Almonte](#)
 - [Edwin Andrés Balbuena Bisonó](https://github.com/xPshycho)
-- [Ronny Severino](#)
+- [Ronny Severino](https://github.com/Nier561)
 
 ## Dashboard Interactivo
 Accede al dashboard en Power BI a través del siguiente enlace:  
