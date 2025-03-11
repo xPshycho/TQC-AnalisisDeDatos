@@ -19,4 +19,4 @@ Este repositorio contiene el proyecto final de la asignatura *Inteligencia de Ne
 
 ## Dashboard Interactivo
 Accede al dashboard en Power BI a través del siguiente enlace:  
-[Dashboard Público](https://app.powerbi.com/reportEmbed?reportId=6e30f0b2-0de7-4109-ab80-ced031cd9b80&autoAuth=true&ctid=4017af08-a2e1-4daa-9180-5b3bc8ee84fa)
+[Dashboard Público](https://app.powerbi.com/reportEmbed?reportId=39051e33-6889-4daa-819e-85e835b42c85&autoAuth=true&ctid=4017af08-a2e1-4daa-9180-5b3bc8ee84fa)
